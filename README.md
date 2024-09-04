@@ -1,4 +1,4 @@
-this is an exmple of making an ssl connection to a server tht requires client certificate validation.
+this is an exmple of making an ssl connection to a server that requires client certificate validation.
 
 this test requires a jdk. I tested it with 1.8 and 21 and it seems to work.
 
